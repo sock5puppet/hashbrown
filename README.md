@@ -6,13 +6,13 @@ Hash Brown
 **Author:** Sock5 Puppet (@sock5puppet)
 
 **Prerequisites:**
-1 findmyhash installed and accessible
-2 file containing supported hashes, one per line
+
+1. findmyhash installed and accessible
+2. file containing supported hashes, one per line
 
 **Release Dates:**
-Date | Version
-09/25/2014 | v1.0
-10/07/2014 | v1.0.1
+09/25/2014 v1.0
+10/07/2014 v1.0.1
 
 **Changes:**
 Version 1.0
