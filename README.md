@@ -1,19 +1,19 @@
-hashbrown
+Hash Brown
 =========
 
-Hash Brown is a script that takes a file of MD4, MD5, SHA1, SHA256, RMD160, LM, NTLM, MYSQL, CISCO7 or JUNIPER hashes and runs them against the password utility findmyhash.  It then dumps the results into a delimited file, making hashbrowns! =)
+**Hash Brown** is a script that takes a file of //MD4, MD5, SHA1, SHA256, RMD160, LM, NTLM, MYSQL, CISCO7 or JUNIPER// hashes and runs them against the password utility findmyhash.  It then dumps the results into a delimited file, making hashbrowns! =)
 
 **Author:** Sock5 Puppet (@sock5puppet)
 
-Prerequisites:
+**Prerequisites:**
 1) findmyhash installed and accessible
 2) file containing supported hashes, one per line
 
-Release Dates:
-Date: 09/25/2014 v1.0
-Date: 10/07/2014 v1.0.1
+**Release Dates:**
+09/25/2014 v1.0
+10/07/2014 v1.0.1
 
-Changes:
+**Changes:**
 Version 1.0
 * Initial release
 
@@ -24,7 +24,7 @@ Version 1.0.1
 * Ascii graphic addition
   - http://patorjk.com
 
-To Do List:
+**To Do List:**
 * Support multi-field files
 * Include usernames
 * Input validation for hashfiles
