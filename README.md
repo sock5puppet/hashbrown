@@ -6,8 +6,8 @@ Hash Brown
 **Author:** Sock5 Puppet (@sock5puppet)
 
 **Prerequisites:**
-- findmyhash installed and accessible
-- file containing supported hashes, one per line
+findmyhash installed and accessible
+file containing supported hashes, one per line
 
 **Release Dates:**
 | Date | Version |
