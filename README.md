@@ -10,7 +10,7 @@ Hash Brown
 2) file containing supported hashes, one per line
 
 **Release Dates:**
-| ----------- | ------- |
+| -----------: | :-------: |
 | Date | Version |
 | 09/25/2014 | v1.0 |
 | 10/07/2014 | v1.0.1 |
