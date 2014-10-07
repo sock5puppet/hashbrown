@@ -3,31 +3,10 @@
 #####
 #
 # Author: Sock5 Puppet (@sock5puppet)
-# Date: 09/25/2014
+# Date: 10/07/2014
 # Version: 1.0.1
 #
-# Details: This script requests information from the user to run against
-# hash tables utilized by the findmyhash script.  Available variables are
-# input file, type of hash (MD5, SHA, etc.), and delimiter so the data
-# can easily be viewed or imported by other programs.
-#
-# Version: 1.0
-# Initial release
-#
-# Version 1.0.1
-# Report on status of hash discovery during process
-# Code cleanup
-# Complete recreation due to file deletion, ugh.
-# Ascii graphic addition
-# - http://patorjk.com
-#
-# Future Considerations:
-# * Support multi-field files
-# * Include usernames
-# * Input validation for hashfiles
-# * Input validation for types of hashes
-# * Delimiter validation and restrictions
-# * Progress report during discovery
+# Usage: ./hashbrown.sh
 #
 #####
 
